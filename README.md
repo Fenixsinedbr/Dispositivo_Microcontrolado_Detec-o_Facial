@@ -9,3 +9,7 @@ Tendo em vista a simplicidade, baixo custo e a confiabilidade deste sistema, ten
 
 
 Este sistema de monitoramento de fadiga e distração do motorista que utiliza OpenCV e MediaPipe para análise de vídeo em tempo real. O sistema detecta sinais de cansaço, como olhos fechados e bocejos, e também identifica distrações, como uso de celular e alimentação. Baseado na detecção desses sinais, o código aciona alarmes sonoros específicos usando a biblioteca Pygame, e exibe mensagens de alerta na tela. O sistema também inclui lógica para parar os alarmes quando o comportamento normal é retomado e para mostrar uma mensagem após o alarme ser desativado.
+
+
+Confira o vídeo demonstrativo do projeto:
+[![Assista ao vídeo](https://img.youtube.com/vi/F8UC4He-9OY/hqdefault.jpg)](https://youtu.be/F8UC4He-9OY)
