@@ -13,12 +13,19 @@ Este sistema de monitoramento de fadiga e distração do motorista que utiliza O
 
 Fluxograma de Prototipação e Testes
 
-![Descrição da Imagem](https://github.com/user-attachments/assets/abfc2a5d-7ad7-4815-b079-3e0f498033c3)
+![Fluxograma de desenvolvimento do Projeto](https://github.com/user-attachments/assets/abfc2a5d-7ad7-4815-b079-3e0f498033c3)
 
 
+Para o protótipo, após a definição da malha facial de um quadro (imagem capturada pela câmera da face do motorista, é possível monitorar por programação os tempos de movimentos dos olhos e lábios. Os pontos que definem as distâncias horizontais e verticais das pálpebras e dos lábios, permitem verificar se uma pessoa está sonolenta: ou com seus olhos fechados por certo tempo, ou bocejando (considerou-se limite dos lábios na vertical em distância máxima por mais de 2 segundos (HAMDI et al., 2021). A Figura 2 ilustra o que ocorre com uma imagem capturada, após ser submetida ao Face Mesh. Um conjunto de pontos na forma de um vetor em Python é retornado, viabilizando os cálculos EAR e MAR. 
+
+![FeceMash 468 Pontos](https://github.com/user-attachments/assets/547bc5a1-ee1c-4b9f-b72a-53dd0e118e38)
+
+Fonte: Shadmand, Sean: A Simple and efficient Face direction detection in React (MEDIUM, 2024)
 
 
 Confira o vídeo demonstrativo do projeto:
 
 [![Assista ao vídeo](https://img.youtube.com/vi/F8UC4He-9OY/hqdefault.jpg)](https://youtu.be/F8UC4He-9OY)
+
+Fonte: Autor disponivel em:  (Youtube)
 
